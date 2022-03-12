@@ -2,7 +2,7 @@
 #### - 👀 I’m interested in learning coding
 #### - 🌱 I’m currently learning BBA
 #### - 💞️ I’m looking to collaborate with [Chrisbin Thomas](https://chrisbin95.github.io/Portfolio/)
-- 📫 Click Here to View Portfolio [Click Here!()
+## - 📫 Click Here to View Portfolio [Click Here!](https://sabinpthomas.github.io/)
 
 <!---
 sabinpthomas/sabinpthomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
